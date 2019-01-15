@@ -1,0 +1,36 @@
+.weather-container {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 50px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lightgray;
+    border-radius: 4px;
+    /* display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center; */
+}
+
+.weather-results-container {
+    margin: 10px 0px 0px 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.weather-label {
+    margin: 15px 5px 5px 0px;
+}
+.items-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.items-column  {
+    display: flex;
+    flex-direction: column;
+}
